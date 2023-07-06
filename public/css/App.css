@@ -23,6 +23,7 @@ header {
     position: fixed;
     width: 100%;
     background-color: #1c1c1d;
+    z-index: 99;
 }
 
 nav {

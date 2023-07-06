@@ -1,11 +1,11 @@
 import React from "react"
 
-import home_img from "../home_img.png"
-import boston from "../boston.png"
-import google from "../google.png"
-import microsoft from "../microsoft.png"
-import samsung from "../samsung.png"
-import sonos from "../sonos.png"
+import home_img from "../img/home_img.png"
+import boston from "../img/boston.png"
+import google from "../img/google.png"
+import microsoft from "../img/microsoft.png"
+import samsung from "../img/samsung.png"
+import sonos from "../img/sonos.png"
 
 
 export default function Home() {
@@ -28,7 +28,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="home_statistics">
-                    {/* <img src={home_img} /> */}
+                    { <img src={home_img} /> }
                 </div>
             </div>
             <div className="companies">
