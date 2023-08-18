@@ -18,7 +18,7 @@ export default function Home() {
                     </div>
                     <h1>Manage Customer and Business Without Limit</h1>
                     <p>
-                        Manage the relation between your business and your customer perfectly
+                         the relation between your business and your customer perfectly
                         with AI based Customer Relationship Management in Decko. No more
                         miscommunication, no more business value decresion
                     </p>
