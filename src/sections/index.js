@@ -5,7 +5,7 @@ import PopularProducts from './PopularProducts';
 import Services from './Services';
 import SpecialOffer from './SpecialOffer';
 import Subscribe from './Subscribe';
-import SupperQuality from './SupperQuality';
+import SuperQuality from './SuperQuality';
 
 export {Hero, 
     Footer,
@@ -14,5 +14,5 @@ export {Hero,
     Services,
     SpecialOffer,
     Subscribe,
-    SupperQuality
+    SuperQuality
 }
