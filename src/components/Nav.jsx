@@ -4,7 +4,7 @@ import { navLinks } from "../constants";
 
 const Nav = () => {
   return (
-    <header className='padding-x py-8 z-10 w-full z-50 bg-white bg-opacity-60 fixed backdrop-blur-lg'>
+    <header className='padding-x py-8 w-full z-50 bg-white bg-opacity-60 fixed backdrop-blur-lg'>
       <nav className='flex justify-between items-center max-container image-animation'>
         <a href='/'>
           <img
